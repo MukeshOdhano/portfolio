@@ -1,0 +1,16 @@
+.footer-container{
+   height: 20%;
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   overflow: hidden;
+}
+.footer-parent{
+   height: 100%;
+   width: 100%;
+   max-width: 1920px;
+}
+.footer-parent img {
+   width: 100%;
+   height: 100%;
+}
