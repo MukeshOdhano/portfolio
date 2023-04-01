@@ -9,6 +9,7 @@ import Typed from 'typed.js';
 import profilePic  from '../../assets/Home/profilePic.png'
 
 
+
 import HomeFooter from './footer/HomeFooter';
 
 
